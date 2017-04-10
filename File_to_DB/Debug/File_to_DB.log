@@ -1,8 +1,10 @@
-﻿  VALUES.cpp
+﻿  stdafx.cpp
+  VALUES.cpp
   File_to_DBDlg.cpp
-d:\_work\file_to_db\file_to_db\file_to_dbdlg.cpp(183): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
-d:\_work\file_to_db\file_to_db\file_to_dbdlg.cpp(187): warning C4244: 'argument': conversion from 'ULONGLONG' to 'UINT', possible loss of data
-d:\_work\file_to_db\file_to_db\file_to_dbdlg.cpp(188): warning C4244: '=': conversion from 'ULONGLONG' to 'SQLUINTEGER', possible loss of data
+c:\users\ionut\source\repos\filetodb\file_to_db\file_to_dbdlg.cpp(183): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\ionut\source\repos\filetodb\file_to_db\file_to_dbdlg.cpp(187): warning C4244: 'argument': conversion from 'ULONGLONG' to 'UINT', possible loss of data
+c:\users\ionut\source\repos\filetodb\file_to_db\file_to_dbdlg.cpp(188): warning C4244: '=': conversion from 'ULONGLONG' to 'SQLUINTEGER', possible loss of data
+  File_to_DB.cpp
   Generating Code...
-  File_to_DB.vcxproj -> D:\_work\File_to_DB\Debug\File_to_DB.exe
-  File_to_DB.vcxproj -> D:\_work\File_to_DB\Debug\File_to_DB.pdb (Partial PDB)
+  File_to_DB.vcxproj -> C:\Users\ionut\Source\Repos\filetodb\Debug\File_to_DB.exe
+  File_to_DB.vcxproj -> C:\Users\ionut\Source\Repos\filetodb\Debug\File_to_DB.pdb (Partial PDB)

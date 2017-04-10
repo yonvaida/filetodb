@@ -168,7 +168,7 @@ void CFile_to_DBDlg::OnBnClickedButtonInsert()
 	CString mFileName = "";
 
 	GetDlgItemText(IDC_EDIT_FILE_PATH, mFileName);
-
+	db.m_bLongBinaryColumns = TRUE;
 	db.Open();
 
 	db.AddNew();
